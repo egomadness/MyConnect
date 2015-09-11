@@ -91,6 +91,7 @@
     <Content Include="fonts\glyphicons-halflings-regular.ttf" />
     <Content Include="fonts\glyphicons-halflings-regular.woff" />
     <Content Include="fonts\glyphicons-halflings-regular.woff2" />
+    <Content Include="js\mainImageLoad.js" />
     <Content Include="less\agency.less" />
     <Content Include="less\mixins.less" />
     <Content Include="less\variables.less" />
